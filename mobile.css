@@ -1,0 +1,109 @@
+#main-heading{
+  float: none;
+  text-align: center;
+  font-size: 30px;
+}
+
+#navbar{
+  height: 980px;
+}
+
+.navbar img{
+  float: left;
+  width: 80px;
+  height: 50px;
+  margin: 20px;
+}
+
+.navbar ul, .navbar ul li{
+  float: none;
+}
+
+.navbar ul li a{
+  font-size: 16px;
+}
+
+#showcase .showcase-content{
+  padding-top: 50px;
+}
+
+#showcase .showcase-content h1{
+  font-size: 30px;
+  line-height: 1em;
+}
+
+section .course-items{
+  display: block;
+  width: 100%;
+}
+
+section .icon{
+  margin: auto;
+}
+
+#home-info-1{
+  height: 100%px;
+}
+
+#home-info-1 .info-img{
+  float: none;
+  width: 100%;
+}
+
+#home-info-1 .info-content{
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+
+#home-info-2{
+  height: 100%;
+  margin-top: 50px;
+}
+
+
+#home-info-2 .info-img{
+  float: none;
+  width: 100%;
+}
+
+#home-info-2 .info-content{
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+
+#home-info-3{
+  height: 100%;
+  margin-top: 50px;
+}
+
+#home-info-2 .info-content{
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+
+#home-info-2 .info-img{
+  float: none;
+  width: 100%;
+}
+
+#home-table{
+  height: 100%;
+}
+
+#home-table .table{
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+#home-table #bottom-content{
+  display: block;
+  text-align: center;
+}
+
+.galary{
+  display: none;
+}
